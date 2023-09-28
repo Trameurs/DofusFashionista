@@ -35,11 +35,11 @@ This is a fork of https://github.com/PiwiSlayer/DofusFashionista.git
 # Note   
    
 So many things are broken I can not list all prerequisites or explain all the steps for installation, I added a requirements.txt to help     
-I suggest you to use Python 2 and try to get it to work with outdated packages directly from the orinial repository : https://github.com/PiwiSlayer/DofusFashionista.git    
+I suggest you to use Python 2 and try to get it to work with outdated packages directly from the original repository : https://github.com/PiwiSlayer/DofusFashionista.git    
 This fork should be somewhat working with Python 3, up to date packages and Windows (I kept Linux compatibility), but not everything in the code is updated and expect a lot of bugs (if you can even make it to work)    
 Abandonning this fork as is    
 
-# What's next ?   
+# What's next?   
 
 Moving to https://github.com/Trameurs/DofusFashionistaVanced     
 If you want to check progress or help with the project, feel free to visit the new repository for DofusFashionistaVanced !     
